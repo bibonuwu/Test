@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label>Ver 5</Label>
+        <Label>Ver 6</Label>
     </Grid>
 </Window>

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T18:02:57.849Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "WpfApp3\\version.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-21T18:23:33.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T18:23:33.061Z"
             },
             {
               "$type": "Document",
@@ -60,11 +59,10 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml*",
-              "RelativeToolTip": "WpfApp3\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T18:02:58.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T18:02:58.332Z"
             }
           ]
         }
