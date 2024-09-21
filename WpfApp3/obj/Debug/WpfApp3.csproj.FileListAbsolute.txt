@@ -13,3 +13,8 @@ C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateRes
 C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
 C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
 C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\bibon\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.manifest
+C:\Users\bibon\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.application
+C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.TrustInfo.xml
+C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe.manifest
+C:\Users\bibon\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.application
