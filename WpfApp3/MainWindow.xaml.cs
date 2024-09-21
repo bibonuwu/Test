@@ -6,7 +6,7 @@ namespace WpfApp3
 {
     public partial class MainWindow : Window
     {
-        private const string versionFileUrl = "https://raw.githubusercontent.com/ваш_пользователь/ваш_репозиторий/main/version.txt"; // Замените на ваш URL
+        private const string versionFileUrl = "https://raw.githubusercontent.com/bibonuwu/Test/main/WpfApp3/version.txt"; // Замените на ваш URL
         private const string currentVersion = "1"; // Текущая версия приложения
 
         public MainWindow()
@@ -31,7 +31,7 @@ namespace WpfApp3
                         if (result == MessageBoxResult.Yes)
                         {
                             // Замените на URL-адрес вашей новой версии
-                            System.Diagnostics.Process.Start("https://github.com/ваш_пользователь/ваш_репозиторий/releases/latest");
+                            System.Diagnostics.Process.Start("https://github.com/bibonuwu/Test/releases/latest");
                         }
                     }
                 }
