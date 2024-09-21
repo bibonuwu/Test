@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|c:\\users\\bibon\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|C:\\Users\\bibon\\source\\repos\\WpfApp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|C:\\Users\\bibon\\source\\repos\\WpfApp3\\wpfapp3\\version.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\version.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|c:\\users\\bibon\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBC724-949D-4A1E-B75E-7610721E0310}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "version.txt",
               "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\version.txt",
               "RelativeDocumentMoniker": "WpfApp3\\version.txt",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\bibon\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
