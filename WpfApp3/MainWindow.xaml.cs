@@ -7,7 +7,7 @@ namespace WpfApp3
     public partial class MainWindow : Window
     {
         private const string versionFileUrl = "https://raw.githubusercontent.com/bibonuwu/Test/main/WpfApp3/version.txt"; // Замените на ваш URL
-        private const string currentVersion = "6"; // Текущая версия приложения
+        private const string currentVersion = "7"; // Текущая версия приложения
 
         public MainWindow()
         {
